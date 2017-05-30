@@ -1,1 +1,12 @@
 Xcursor.size: 14
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.lines: 10
+rofi.color-enabled: true
+rofi.color-window: argb:e5ffffff, argb:0ffffff, #000000
+rofi.color-normal: argb:0ffffff, #333333, argb:0eee8d5, #0087b2, #ffffff
+rofi.color-active: #0fa6d2, #268bd2, #eee8d5, #ffffff, #ffffff
+rofi.color-urgent: #fdf6e3, #dc322f, #eee8d5, #dc322f, #fdf6e3
+
